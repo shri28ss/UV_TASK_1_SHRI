@@ -1,0 +1,6 @@
+openai
+pdfplumber
+python-dotenv
+pydantic
+httpx
+tqdm
